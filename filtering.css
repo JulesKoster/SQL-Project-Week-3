@@ -4,7 +4,7 @@ body {
 
 .portfoliowrapper * {
     box-sizing: border-box;
-    background-color: #86C232;
+    background-color: #ddd;
     padding: 20px;
     font-family: 'Roboto', 'sans-serif';
   
@@ -34,7 +34,7 @@ h1{
     float: left;
     width: 33.33%;
     display: none; 
-    background-color: #86C232;
+    background-color: #efefef;
 }
  
 .row:after {
@@ -44,9 +44,9 @@ h1{
 }
 
 .content {
-    background-color:#ddd;
+    background-color:#efefef;
     padding: 10px;
-}
+    }
 
 .show {
     display: block;

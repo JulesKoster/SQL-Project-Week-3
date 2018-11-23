@@ -22,8 +22,8 @@
             <a href="index.php">Home</a>
             <a href="orderby1.php">Query 1</a>
             <a href="orderby2.php">Query 2</a>
-            <a href="#">Pagina 4</a> 
-            <a href="#">Pagina 5</a>
+            <a href="#">Page 4</a> 
+            <a href="#">Page 5</a>
         </div>
     <nav>
     <!-- Nav Ends-->
